@@ -27,8 +27,8 @@ Open index.html in your browser to explore the website.
 
 Screenshots 📸
 Home Page
-
 Pricing Plans
+
 
 Project Structure 📁
 index.html - The main HTML file.
